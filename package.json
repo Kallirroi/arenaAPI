@@ -1,7 +1,8 @@
 {
-  "name": "experiment",
+  "name": "experiments with are.na API",
   "version": "0.1.0",
   "private": true,
+  "author": "kalli",
   "dependencies": {
     "axios": "^0.16.2",
     "cheerio": "^0.22.0",
